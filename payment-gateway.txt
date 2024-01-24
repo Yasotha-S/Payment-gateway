@@ -1,0 +1,91 @@
+\<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="payment2.css">
+    <script src="https://kit.fontawesome.com/1bb9fca465.js" crossorigin="anonymous"></script>
+    <title>Document</title>
+<style>
+nav{
+  text-align: center;
+  font-size: 50px;
+  }
+h2 {
+  text-align: center;
+  }
+  h1{
+  text-align: center;
+  font-size: 50px;
+  color: red;
+  }
+  p{
+  text-align: center;
+  font-size: 50px;
+  color: green;
+  }
+.button {
+  background-color: yellow; /* Green */
+  border: none;
+  color: white;
+  padding: 25px 35px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 50px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: orange;
+  color: black;
+  border: 2px solid #4CAF50;
+}
+#example1 {
+  background-image: url(https://media.istockphoto.com/photos/donation-money-jar-filled-with-coins-in-front-of-holiday-lights-picture-id1171764212?k=20&m=1171764212&s=612x612&w=0&h=gHHV1ZnE8gq9VPs4XMB_pdjrMD2ehMmrO2y2nXFXnPY=);
+  height: 200%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+  </style>
+
+</head>
+<div id="example1">
+
+<Body>
+    <main>
+        <nav class="nav">
+            <a href="https://www.thesparksfoundationsingapore.org/" class="home">Home</a>
+            <a href="https://www.thesparksfoundationsingapore.org/contact-us/" class="home">Contact</a>
+            <a href="https://www.thesparksfoundationsingapore.org/programs/corporate-programs/" class="home">Programs</a>
+        </nav>
+        <h1 class="tsf">TSF</h1></Body>
+        <h2><a href="https://rzp.io/l/VYDWURFHDu"text-decoration: none;text-emphasis-color:  #fff;">
+            <button class="button button1">DONATE</button>
+        </a></h2>
+        <br><br>
+        <P class="quote">“When our signature changes to Autograph,This makes the success”</p>
+        <p> – A.P.J.Abdul Kalam </p> <br>
+        </main>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
